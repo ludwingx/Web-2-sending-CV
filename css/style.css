@@ -1,0 +1,79 @@
+body {
+    background-image: url("https://htmlcolorcodes.com/assets/images/html-color-codes-color-tutorials-hero.jpg") ;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    .contact{
+        padding: 4%;
+        height: 400px;
+    }
+    .col-md-3{
+        background: #679B9B !important;
+        padding: 2,5%;
+        border-top-left-radius: 0.5rem;
+        border-bottom-left-radius: 0.5rem;
+    }
+        .imgpdf{
+            height: 70px;
+            width: 70px;
+        }
+    .contact-info img{
+        margin-bottom: 15%;
+        height: 100%;
+        width: 100%;
+    }
+    .contact-info h2{
+        margin-bottom: 2%;
+    }
+    .col-md-3 {
+        background: #ff9b00;
+        padding: 4%;
+        border-top-left-radius: 0.5rem;
+        border-bottom-left-radius: 0.5rem;
+    }
+    .col-md-9 {
+        background: #fff;
+        padding: 3%;
+        border-top-right-radius: 0.5rem;
+        border-bottom-right-radius: 0.5rem;
+    }
+
+    .contact-form label {
+        font-weight: 600;
+    }
+
+    .contact-form button {
+        background: #637373;
+        color: #fff;
+        font-weight: 600;
+        width: 25%;
+    }
+
+    .contact-form button:focus {
+        box-shadow: none;
+    }
+
+    /*Footer*/
+.btn{
+    --bs-btn-bg: #4c4f51;
+    border-radius: 30px 25px 30px 35px;
+}
+section{
+    height: 700px;
+}
+.sec1{
+    background-color: #ff9b00;
+}
+.sec2{
+    background-color: #00ff66;
+}
+.sec3{
+    background-color: #e100ff;
+}
+.sec4{
+    background-image: url("../images/sec4.png");
+}
+    .sec4 .formpostular{
+        filter: brightness(100%);
+        padding: 15% 25%;
+    }
+
